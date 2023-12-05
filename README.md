@@ -6,13 +6,13 @@
 
 <h2>About me 😃</h2>
 <p align="left">
-🎓 Bionic Engineer Student
+- 🎓 Bionic Engineer Student
   
-📚 I'm currently learning Artificial Intelligence
+- 📚 I'm currently learning Artificial Intelligence
 
-📖 Learning German
+- 📖 Learning German
 
-📧 Contact: **adalidcht@gmail.com**
+- 📧 Contact: **adalidcht@gmail.com**
 </p>
 <br>
 <h2 align="left">Known Technologies👨🏻‍💻</h2>
