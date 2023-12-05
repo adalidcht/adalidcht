@@ -8,11 +8,8 @@
 <p align="left">
   
 - 🎓 Bionic Engineer Student
-  
 - 📚 I'm currently learning Artificial Intelligence
-
 - 📖 Learning German
-
 - 📧 Contact: **adalidcht@gmail.com**
 </p>
 <br>
