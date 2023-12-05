@@ -11,7 +11,7 @@
 
 📖 Learning German
 
-:e-mail: Contact: **adalidcht@gmail.com**
+:email: Contact: **adalidcht@gmail.com**
 </p>
 <br>
 <h2 align="left">Known Technologies👨🏻‍💻</h2>
