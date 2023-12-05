@@ -9,7 +9,7 @@
 
 📚 I'm currently learning Artificial Intelligence
 
-📖 Leraning German
+📖 Learning German
 
 📫 Contact: **adalidcht@gmail.com**
 </p>
