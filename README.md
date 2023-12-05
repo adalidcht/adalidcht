@@ -6,6 +6,9 @@
       alt="adalid" height="30" width="40" /></a>
 <!--a href="https://linkedin.com/in/adalid-chavez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adalid-chavez"/></a-->
 </p>
+<p align="center"> 
+  ![me](https://github.com/adalidcht/adalidcht/assets/148654333/3cf21fc8-0a61-4ea9-87e5-093daef35e83)
+</p>
 <br>
 
 <h2>About me 😃</h2>
