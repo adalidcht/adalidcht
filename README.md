@@ -1,13 +1,6 @@
 <h1 align="center">Hallo 👋  I'm Adalid ✨ </h1> 
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/adalid-chavez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adalid" height="30" width="40" /></a>
-<!--a href="https://linkedin.com/in/adalid-chavez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adalid-chavez"/></a-->
-</p>
-
-<p align="center"> 
 <img src="https://github.com/adalidcht/adalidcht/blob/main/me.jpeg" alt="Made by Bing Chat" width="250" height="250">
 </p>
 <br>
@@ -19,6 +12,11 @@
 - 📚 I'm currently learning Artificial Intelligence
 - 📖 Learning German
 - 📧 Contact: **adalidcht@gmail.com**
+- <a href="https://www.linkedin.com/in/adalid-chavez/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adalid" height="30" width="40" /></a>
+<!--a href="https://linkedin.com/in/adalid-chavez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adalid-chavez"/></a-->
+
 </p>
 <br>
 <h2 align="left">Known Technologies👨🏻‍💻</h2>
