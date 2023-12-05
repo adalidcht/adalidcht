@@ -16,11 +16,12 @@
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 > </h2>Known Technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,r,matlab,conda,vscode&perline=12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+    <img src="https://skillicons.dev/icons?i=py,cpp,r,matlab,vscode&perline=12" />
   </a>
 </p>
 
