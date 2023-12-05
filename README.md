@@ -13,16 +13,16 @@
 
 📫 Contact: **adalidcht@gmail.com**
 </p>
-
 <br>
+<h2 align="left">Known Technologies👨🏻‍💻</h2>
 
-<h2 > </h2>Known Technologies👨🏻‍💻</h2>
-<!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-    <img src="https://skillicons.dev/icons?i=py,cpp,r,matlab,vscode&perline=12" />
-  </a>
-</p>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/>                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50/>
+</p>          
+<br>
   
