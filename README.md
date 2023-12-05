@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  ![me](https://github.com/adalidcht/adalidcht/assets/148654333/57828c85-14e8-4bbb-b287-c83f689db987)
+</img  src="https://github.com/adalidcht/adalidcht/me.jpeg" alt="Made by Bing Chat">
 </p>
 <br>
 
