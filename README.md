@@ -6,6 +6,7 @@
 
 <h2>About me 😃</h2>
 <p align="left">
+  
 - 🎓 Bionic Engineer Student
   
 - 📚 I'm currently learning Artificial Intelligence
