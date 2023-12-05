@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-</img  src="https://github.com/adalidcht/adalidcht/blob/main/me.jpeg" alt="Made by Bing Chat">
+<img src="https://github.com/adalidcht/adalidcht/blob/main/me.jpeg" alt="Made by Bing Chat" width="250" height="250">
 </p>
 <br>
 
