@@ -8,7 +8,7 @@
 <h2>About me 😃</h2>
 <p align="left">
   
-- 🎓 Bionic Engineer Student
+- 🎓 Bionic Engineer Student 🦾
 - 📚 I'm currently learning Artificial Intelligence
 - 📖 Learning German
 - 📧 Contact: **adalidcht@gmail.com**
