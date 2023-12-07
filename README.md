@@ -12,10 +12,11 @@
 - 📚 I'm currently learning Artificial Intelligence
 - 📖 Learning German
 - 📧 Contact: **adalidcht@gmail.com**
+- - I love Spidey 🕷
 - <a href="https://www.linkedin.com/in/adalid-chavez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adalid" height="30" width="40" /></a>
-- I love Spidey 🕷
+
 <!--a href="https://linkedin.com/in/adalid-chavez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adalid-chavez"/></a-->
 
 </p>
