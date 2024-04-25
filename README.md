@@ -16,7 +16,7 @@
 - 📖 Learning German
 - 📧 Contact: **adalidcht@gmail.com**
 - I love Spidey 🕷
-- <a href="https://www.linkedin.com/in/adalid-chavez/" target="blank"><img align="center"
+- <a href="https://www.linkedin.com/in/adalidchavez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adalid" height="30" width="40" /></a>
 </p>
